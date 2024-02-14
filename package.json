@@ -1,0 +1,20 @@
+{
+  "name": "protocols-udp-tcp",
+  "version": "1.0.0",
+  "description": "Simple tcp and udp servers created with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tcp",
+    "udp",
+    "protocols",
+    "ip"
+  ],
+  "author": "Anagh",
+  "license": "ISC",
+  "dependencies": {
+    "dgram": "^1.0.1"
+  }
+}
